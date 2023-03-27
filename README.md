@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+# 🌱 Welcome! 🌱
+
+This is KenChen9's profile page. Make yourself at home!.
+
 <!--
 **KenChen9/KenChen9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
