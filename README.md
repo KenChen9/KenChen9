@@ -21,14 +21,19 @@ But I currently don't feel proficient in them.
 So far, I can code in
 - C
 - C++
+- C#
 - Python
 
 Now, I am learning
 - Web (HTML, CSS, JavaScript)
-
-In the future, I am planning to learn
 - TypeScript
 - AngularJS
+
+In the future, I am planning to learn
+- Java
+- SQL
+- Docker
+- Unity
 
 <img src="https://i.kym-cdn.com/photos/images/newsfeed/002/369/918/dee.gif" alt="disintegrating emoji meme" width="300px">
 
